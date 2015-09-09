@@ -1,6 +1,6 @@
-# Buttoms combinatorial game
+# Buttons combinatorial game
 Final project for CGT where game theorems were proven via dynamic programming.
-# Descriptionk
+# Description
 
 @author Kevin Kim; March 25, 2014
 
